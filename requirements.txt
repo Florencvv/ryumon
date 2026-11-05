@@ -1,0 +1,5 @@
+# tools only (the film itself is plain ES modules + three.js in vendor/, no build step)
+playwright>=1.45      # headless Chromium for stills and the frame-by-frame render
+numpy>=1.26           # soundtrack synthesis
+scipy>=1.11           # soundtrack filters and convolution
+Pillow>=10.0          # stills, contact sheets
