@@ -15,8 +15,7 @@ markings, which flies up into the dawn and all the way home.
 | ![falls](docs/falls.jpg) | ![climb](docs/climb.jpg) |
 
 **Watch:** download `dist/ryumon.html` and open it in any browser. It is one self-contained file (28 MB, a lighter
-encode of the film with its soundtrack) and works offline. The full-quality MP4 is attached to the release (see
-Releases).
+encode of the film with its soundtrack) and works offline.
 
 ---
 
